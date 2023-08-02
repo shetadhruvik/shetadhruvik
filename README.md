@@ -21,6 +21,6 @@ In the fast-paced world of technology, continuous learning is essential. I'm alw
 I take pride in the positive impact my work has had on clients and end-users. The satisfaction of delivering successful projects and witnessing the growth of products I've been involved with motivates me to keep pushing the boundaries of what's possible.
 
 📈 Let's Connect:
-I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via email or connect with me on LinkedIn [include your LinkedIn profile URL].
+Let's Connect: I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via Upwork:- https://www.upwork.com/freelancers/~0128bae70e2c5feebd
 
 Let's build something amazing together! Happy coding! 😄
