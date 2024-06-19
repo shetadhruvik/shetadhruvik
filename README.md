@@ -12,6 +12,8 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
   <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
     <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
     <div>ReactJS</div>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" />
+    <div>NextJS</div>
   </div>
   <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" />
