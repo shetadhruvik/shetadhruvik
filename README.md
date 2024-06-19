@@ -89,6 +89,10 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td align="center"><img src="https://skillicons.dev/icons?i=xd" alt="XD" /></td>
   </tr>
 </table>
+<h5 align="left">Project Management tools:</h5>
+
+![Jira](https://img.shields.io/badge/Jira-%231DA1F2.svg?logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 <h3 align="left">🌱 Lifelong Learner:</h3>
 In the fast-paced world of technology, continuous learning is essential. I'm always on the lookout for the latest tools and frameworks, eager to apply cutting-edge solutions to my projects. Additionally, I actively contribute to the open-source community, sharing my knowledge and helping others along their development journey.
@@ -101,7 +105,7 @@ I take pride in the positive impact my work has had on clients and end-users. Th
 I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via <br/>
 [![Upwork](https://img.shields.io/badge/Upwork-%234ea94b.svg?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0128bae70e2c5feebd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheta-dhruvik-320a741b8/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23B92B27.svg?logo=Gmail&logoColor=white)](href="mailto:shetadhruvik13@gmail.com")
+[![Skype](https://img.shields.io/badge/Skype-%231DA1F2.svg?logo=Skype&logoColor=white)](https://join.skype.com/invite/pOQb4HYa1pDC)
 
 Let's build something amazing together! Happy coding! 😄
 
