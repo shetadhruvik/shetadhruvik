@@ -8,10 +8,9 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-
 <table>
   <tr>
-    <td align="center">ReactJS</td>
+    <td align="center">React</td>
     <td align="center">NextJS</td>
     <td align="center">Redux</td>
     <td align="center">HTML5</td>
@@ -20,7 +19,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td align="center">TypeScript</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
@@ -52,9 +51,26 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></td>
   </tr>
 </table>
+<h5 align="left">DevOps:</h5>
+<table>
+  <tr>
+    <td align="center">Git</td>
+    <td align="center">Webpack</td>
+    <td align="center">Docker</td>
+    <td align="center">AWS</td>
+    <td align="center">Google Cloud Platform</td>
+    <td align="center">Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></td>
+  </tr>
+</table>
 
-- Mobile: ReactNative
-- DevOps: Git, Webpack, Docker, AWS
 - Other: Firebase
 
 
