@@ -8,33 +8,32 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<h3 align="left">🔧 Tech Stack and tools:</h3>
-<div style="display: flex; align-items: center; gap: 20px;">
-    <div style="display: flex; align-items: center; gap: 5px;">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="width: 40px; height: 40px;" />
         <span>ReactJS</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="width: 40px; height: 40px;" />
         <span>NextJS</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="width: 40px; height: 40px;" />
         <span>Redux</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 40px; height: 40px;" />
         <span>HTML5</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 40px; height: 40px;" />
         <span>CSS3</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;" />
         <span>JavaScript</span>
     </div>
-    <div style="display: flex; align-items: center; gap: 5px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 40px; height: 40px;" />
         <span>TypeScript</span>
     </div>
