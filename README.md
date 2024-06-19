@@ -8,7 +8,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<table>
+<table align="center">
   <tr>
     <td>ReactJS</td>
     <td>NextJS</td>
@@ -25,7 +25,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
     <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
     <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
   </tr>
 </table>
 <h5 align="left">Backend and Databases:</h5>
