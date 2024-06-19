@@ -8,7 +8,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<table>
+<table style="text-align: center;">
   <tr>
     <td>ReactJS</td>
     <td>NextJS</td>
