@@ -28,6 +28,31 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
   </tr>
 </table>
+<h5 align="left">Backend and Databases:</h5>
+<table>
+  <tr>
+    <td>NodeJS</td>
+    <td>ExpressJS</td>
+    <td>NestJS</td>
+    <td>GraphQL</td>
+    <td>RestAPIs</td>
+    <td>PostGreSQL</td>
+    <td>MongoDB</td>
+    <td>MySQL</td>
+    <td>DynamoDB</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="ReactJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="NextJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="Redux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" alt="HTML5" /></td>
+    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+  </tr>
+</table>
+
+
 
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
