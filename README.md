@@ -8,6 +8,9 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 🔧 Tech Stack:
 - Frontend: ReactJS, NextJS, Redux, HTML5, CSS3, JavaScript, TypeScript
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts" />
+</p>
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
 - DevOps: Git, Webpack, Docker, AWS
