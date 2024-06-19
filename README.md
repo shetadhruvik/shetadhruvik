@@ -6,7 +6,7 @@ I thrive on building scalable, high-performance applications using the latest te
 💼 Professional Journey:
 Throughout my career, I've worked on a diverse range of projects, collaborating with talented teams and clients from various industries. My hands-on experience has taught me the value of clean code, efficient algorithms, and meticulous problem-solving to deliver software that stands the test of time.
 
-🔧 Tech Stack:
+<h3 align="left">🔧 Tech Stack and tools:</h3>
 - Frontend: ReactJS, NextJS, Redux, HTML5, CSS3, JavaScript, TypeScript
 <p align="left">
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts" />
@@ -27,6 +27,7 @@ I take pride in the positive impact my work has had on clients and end-users. Th
 Let's Connect: I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via <br/>
  [![Upwork](https://img.shields.io/badge/Upwork-%234ea94b.svg?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0128bae70e2c5feebd)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheta-dhruvik-320a741b8/)
+ [![Gmail](https://img.shields.io/badge/Gmail-%23B92B27.svg?logo=Gmail&logoColor=white)](mailto:shetadhruvik13@gmail.com)
 
 Let's build something amazing together! Happy coding! 😄
 
