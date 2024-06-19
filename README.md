@@ -35,26 +35,23 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td>ExpressJS</td>
     <td>NestJS</td>
     <td>GraphQL</td>
-    <td>RestAPIs</td>
     <td>PostGreSQL</td>
     <td>MongoDB</td>
     <td>MySQL</td>
     <td>DynamoDB</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="ReactJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" alt="NextJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="Redux" /></td>
-    <td><img src="https://skillicons.dev/icons?i=graphql" alt="HTML5" /></td>
-    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" alt="CSS3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></td>
   </tr>
 </table>
 
-
-
-- Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
 - DevOps: Git, Webpack, Docker, AWS
 - Other: Firebase
