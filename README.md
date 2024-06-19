@@ -24,3 +24,14 @@ I take pride in the positive impact my work has had on clients and end-users. Th
 Let's Connect: I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via Upwork:- https://www.upwork.com/freelancers/~0128bae70e2c5feebd
 
 Let's build something amazing together! Happy coding! 😄
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shetadhruvik&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shetadhruvik&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shetadhruvik&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=shetadhruvik&icon=0&color=0)](https://visitcount.itsvg.in)
