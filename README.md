@@ -25,9 +25,9 @@ I take pride in the positive impact my work has had on clients and end-users. Th
 
 📈 Let's Connect:
 Let's Connect: I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via <br/>
- [![Upwork](https://img.shields.io/badge/Upwork-%234ea94b.svg?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0128bae70e2c5feebd)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheta-dhruvik-320a741b8/)
- [![Gmail](https://img.shields.io/badge/Gmail-%23B92B27.svg?logo=Gmail&logoColor=white)](mailto:shetadhruvik13@gmail.com)
+[![Upwork](https://img.shields.io/badge/Upwork-%234ea94b.svg?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0128bae70e2c5feebd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheta-dhruvik-320a741b8/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23B92B27.svg?logo=Gmail&logoColor=white)](mailto:shetadhruvik13@gmail.com?subject=Hello%20Dhruvik&body=I%20am%20reaching%20out%20to%20you%20via%20your%20Gmail%20link.)
 
 Let's build something amazing together! Happy coding! 😄
 
