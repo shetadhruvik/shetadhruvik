@@ -8,38 +8,26 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
-    <div>ReactJS</div>
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" />
-    <div>NextJS</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" />
-    <div>NextJS</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
-    <div>Redux</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-    <div>HTML5</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
-    <div>CSS3</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-    <div>JavaScript</div>
-  </div>
-  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-    <div>TypeScript</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>ReactJS</td>
+    <td>NextJS</td>
+    <td>Redux</td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+  </tr>
+</table>
 
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
