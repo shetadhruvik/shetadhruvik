@@ -24,7 +24,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td style="align: center;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
     <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="text-align: center;" /></td>
   </tr>
 </table>
