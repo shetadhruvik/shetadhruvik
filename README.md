@@ -11,45 +11,45 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <table>
   <tr>
-    <td>ReactJS</td>
-    <td>NextJS</td>
-    <td>Redux</td>
-    <td>HTML5</td>
-    <td>CSS3</td>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
+    <td align="center">ReactJS</td>
+    <td align="center">NextJS</td>
+    <td align="center">Redux</td>
+    <td align="center">HTML5</td>
+    <td align="center">CSS3</td>
+    <td align="center">JavaScript</td>
+    <td align="center">TypeScript</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
   </tr>
 </table>
 <h5 align="left">Backend and Databases:</h5>
 <table>
   <tr>
-    <td>NodeJS</td>
-    <td>ExpressJS</td>
-    <td>NestJS</td>
-    <td>GraphQL</td>
-    <td>PostGreSQL</td>
-    <td>MongoDB</td>
-    <td>MySQL</td>
-    <td>DynamoDB</td>
+    <td align="center">NodeJS</td>
+    <td align="center">ExpressJS</td>
+    <td align="center">NestJS</td>
+    <td align="center">GraphQL</td>
+    <td align="center">PostGreSQL</td>
+    <td align="center">MongoDB</td>
+    <td align="center">MySQL</td>
+    <td align="center">DynamoDB</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
-    <td><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" alt="PostGreSQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" /></td>
   </tr>
 </table>
 
