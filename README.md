@@ -70,23 +70,23 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td align="center"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
   </tr>
 </table>
-<h5 align="left">Other Tools:</h5>
+<h5 align="left">Tools:</h5>
 <table>
   <tr>
-    <td align="center">Webpack</td>
-    <td align="center">Docker</td>
-    <td align="center">AWS</td>
-    <td align="center">GCP</td>
-    <td align="center">Kubernetes</td>
-    <td align="center">Firebase</td>
+    <td align="center">Github</td>
+    <td align="center">BitBucket</td>
+    <td align="center">Postman</td>
+    <td align="center">VSCode</td>
+    <td align="center">Figma</td>
+    <td align="center">XD</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" alt="Github" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bitbucket" alt="BitBucket" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=xd" alt="XD" /></td>
   </tr>
 </table>
 
@@ -96,7 +96,8 @@ In the fast-paced world of technology, continuous learning is essential. I'm alw
 <h3 align="left">🏆 Achievements:</h3>
 I take pride in the positive impact my work has had on clients and end-users. The satisfaction of delivering successful projects and witnessing the growth of products I've been involved with motivates me to keep pushing the boundaries of what's possible.
 
-<h3 align="left">📈 Let's Connect:</h3>
+<h3 align="left">🤝 Let's Connect:</h3>
+
 I'm open to collaboration and new opportunities where I can contribute my expertise and make a difference. Feel free to reach out to me via <br/>
 [![Upwork](https://img.shields.io/badge/Upwork-%234ea94b.svg?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0128bae70e2c5feebd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheta-dhruvik-320a741b8/)
@@ -105,6 +106,6 @@ I'm open to collaboration and new opportunities where I can contribute my expert
 Let's build something amazing together! Happy coding! 😄
 
 <h3 align="left">📊 GitHub Stats:</h3>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shetadhruvik&theme=dark&hide_border=true)<br/>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=shetadhruvik&theme=dark&hide_border=true)<br/>
 
