@@ -7,28 +7,23 @@ I thrive on building scalable, high-performance applications using the latest te
 Throughout my career, I've worked on a diverse range of projects, collaborating with talented teams and clients from various industries. My hands-on experience has taught me the value of clean code, efficient algorithms, and meticulous problem-solving to deliver software that stands the test of time.
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
-<table>
-  <tr>
-    <td>Frontend:</td>
-    <td>ReactJS</td>
-    <td>NextJS</td>
-    <td>Redux</td>
-    <td>HTML5</td>
-    <td>CSS3</td>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
-    <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
-    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
-    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
-  </tr>
-</table>
+<h5 align="left">Frontend:</h5>
+<div style="display: flex; align-items: center;">
+    <span style="margin-right: 10px;">ReactJS</span>
+    <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">NextJS</span>
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">Redux</span>
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">HTML5</span>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">CSS3</span>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">JavaScript</span>
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 20px;" />
+    <span style="margin-right: 10px;">TypeScript</span>
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+</div>
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
 - DevOps: Git, Webpack, Docker, AWS
