@@ -19,13 +19,13 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
     <td style="width: 14.28%;">TypeScript</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="width: 100%; text-align: center;"/></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="text-align: center;"/></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
     <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 100%; text-align: center;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="text-align: center;" /></td>
   </tr>
 </table>
 <h5 align="left">Backend and Databases:</h5>
