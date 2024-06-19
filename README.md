@@ -8,35 +8,35 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<div style="display: flex; gap: 20px;">
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="width: 40px; height: 40px;" />
-        <div>ReactJS</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="width: 40px; height: 40px;" />
-        <div>NextJS</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="width: 40px; height: 40px;" />
-        <div>Redux</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 40px; height: 40px;" />
-        <div>HTML5</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 40px; height: 40px;" />
-        <div>CSS3</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;" />
-        <div>JavaScript</div>
-    </div>
-    <div style="text-align: center;">
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 40px; height: 40px;" />
-        <div>TypeScript</div>
-    </div>
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" />
+    <div>ReactJS</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" />
+    <div>NextJS</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" />
+    <div>Redux</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+    <div>HTML5</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <div>CSS3</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <div>JavaScript</div>
+  </div>
+  <div style="flex-basis: 33.33%; text-align: center; margin-bottom: 10px;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+    <div>TypeScript</div>
+  </div>
 </div>
 
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
