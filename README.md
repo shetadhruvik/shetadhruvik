@@ -8,22 +8,37 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<div style="display: flex; align-items: center;">
-    <span style="margin-right: 10px;">ReactJS</span>
-    <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">NextJS</span>
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">Redux</span>
-    <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">HTML5</span>
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">CSS3</span>
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">JavaScript</span>
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="margin-right: 20px;" />
-    <span style="margin-right: 10px;">TypeScript</span>
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="width: 40px;" />
+        <span>ReactJS</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="width: 40px;" />
+        <span>NextJS</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="width: 40px;" />
+        <span>Redux</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 40px;" />
+        <span>HTML5</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 40px;" />
+        <span>CSS3</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px;" />
+        <span>JavaScript</span>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 40px;" />
+        <span>TypeScript</span>
+    </div>
 </div>
+
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
 - DevOps: Git, Webpack, Docker, AWS
