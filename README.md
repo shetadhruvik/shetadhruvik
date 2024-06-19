@@ -8,15 +8,15 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<table>
+<table style="width: 100%; text-align: center;">
   <tr>
-    <td>ReactJS</td>
-    <td>NextJS</td>
-    <td>Redux</td>
-    <td>HTML5</td>
-    <td>CSS3</td>
-    <td>JavaScript</td>
-    <td>TypeScript</td>
+    <td style="width: 14.28%;">ReactJS</td>
+    <td style="width: 14.28%;">NextJS</td>
+    <td style="width: 14.28%;">Redux</td>
+    <td style="width: 14.28%;">HTML5</td>
+    <td style="width: 14.28%;">CSS3</td>
+    <td style="width: 14.28%;">JavaScript</td>
+    <td style="width: 14.28%;">TypeScript</td>
   </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
