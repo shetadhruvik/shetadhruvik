@@ -8,34 +8,34 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+<div style="display: flex; align-items: center; gap: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="width: 40px; height: 40px;" />
-        <span>ReactJS</span>
+        <span style="line-height: 40px;">ReactJS</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" style="width: 40px; height: 40px;" />
-        <span>NextJS</span>
+        <span style="line-height: 40px;">NextJS</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=redux" alt="Redux" style="width: 40px; height: 40px;" />
-        <span>Redux</span>
+        <span style="line-height: 40px;">Redux</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" style="width: 40px; height: 40px;" />
-        <span>HTML5</span>
+        <span style="line-height: 40px;">HTML5</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" style="width: 40px; height: 40px;" />
-        <span>CSS3</span>
+        <span style="line-height: 40px;">CSS3</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" style="width: 40px; height: 40px;" />
-        <span>JavaScript</span>
+        <span style="line-height: 40px;">JavaScript</span>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; align-items: center; gap: 10px;">
         <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="width: 40px; height: 40px;" />
-        <span>TypeScript</span>
+        <span style="line-height: 40px;">TypeScript</span>
     </div>
 </div>
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
