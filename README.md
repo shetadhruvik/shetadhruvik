@@ -8,24 +8,24 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
 <h5 align="left">Frontend:</h5>
-<table style="width: 100%; text-align: center;">
+<table>
   <tr>
-    <td style="width: 14.28%;">ReactJS</td>
-    <td style="width: 14.28%;">NextJS</td>
-    <td style="width: 14.28%;">Redux</td>
-    <td style="width: 14.28%;">HTML5</td>
-    <td style="width: 14.28%;">CSS3</td>
-    <td style="width: 14.28%;">JavaScript</td>
-    <td style="width: 14.28%;">TypeScript</td>
+    <td>ReactJS</td>
+    <td>NextJS</td>
+    <td>Redux</td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>TypeScript</td>
   </tr>
   <tr>
-    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" style="text-align: center;"/></td>
-    <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
-    <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
-    <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
-    <td style="width: 100%; text-align: center;"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
-    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
-    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" style="text-align: center;" /></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td style="text-align: center;"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
   </tr>
 </table>
 <h5 align="left">Backend and Databases:</h5>
