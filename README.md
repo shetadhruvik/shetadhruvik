@@ -93,6 +93,7 @@ Throughout my career, I've worked on a diverse range of projects, collaborating 
 
 ![Jira](https://img.shields.io/badge/Jira-%231DA1F2.svg?logo=Jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/clickup-%23E0234E.svg?style=flat&logo=clickup&logoColor=white)
 
 <h3 align="left">🌱 Lifelong Learner:</h3>
 In the fast-paced world of technology, continuous learning is essential. I'm always on the lookout for the latest tools and frameworks, eager to apply cutting-edge solutions to my projects. Additionally, I actively contribute to the open-source community, sharing my knowledge and helping others along their development journey.
