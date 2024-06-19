@@ -7,10 +7,28 @@ I thrive on building scalable, high-performance applications using the latest te
 Throughout my career, I've worked on a diverse range of projects, collaborating with talented teams and clients from various industries. My hands-on experience has taught me the value of clean code, efficient algorithms, and meticulous problem-solving to deliver software that stands the test of time.
 
 <h3 align="left">🔧 Tech Stack and tools:</h3>
-- Frontend: ReactJS, NextJS, Redux, HTML5, CSS3, JavaScript, TypeScript
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts" />
-</p>
+<table>
+  <tr>
+    <td>Frontend:</td>
+    <td>ReactJS</td>
+    <td>NextJS</td>
+    <td>Redux</td>
+    <td>HTML5</td>
+    <td>CSS3</td>
+    <td>JavaScript</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" /></td>
+    <td><img src="https://skillicons.dev/icons?i=redux" alt="Redux" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html" alt="HTML5" /></td>
+    <td><img src="https://skillicons.dev/icons?i=css" alt="CSS3" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></td>
+  </tr>
+</table>
 - Backend: NodeJS, ExpressJS, PostgreSQL or MongoDB, SQL, REST APIs, GraphQL
 - Mobile: ReactNative
 - DevOps: Git, Webpack, Docker, AWS
