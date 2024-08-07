@@ -1,4 +1,4 @@
-👋 Hello there! I'm Dhruvik Sheta, a Senior FullStack Developer with a passion for creating exceptional web and mobile experiences. 
+👋 Hello there! I'm Dhruvik Sheta, a Senior FullStack Developer with a passion for developing exceptional web and mobile app experiences. 
 
 <h3 align="left">🚀 About Me:</h3>
 I thrive on building scalable, high-performance applications using the latest technologies and best practices. My expertise lies in the entire development stack, from front-end design with ReactJS and NextJS to robust server-side solutions with NodeJS. Additionally, I love exploring the world of mobile app development using ReactNative, ensuring that the user experience is seamless across all platforms.
